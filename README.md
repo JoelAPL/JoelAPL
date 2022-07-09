@@ -7,12 +7,19 @@
 ```javascript
 const Joel = {
   pronouns: "he" | "hin",
+  
+ technologies : 'Web',
+ passions : ['Web design' and 'web development'],
+ 
   code: [HTML, CSS, Javascript, PHP, SQL],
   tools: [Materialize, Bootstrap, Node, phpMyAdmin, jQuery, datatables, Select2, Git ],
   databases: [ "MySql", "phpMyAdmin"],
+  Code Editing : ["Visual Studio Code"],
 }
 ```
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelAPL)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
