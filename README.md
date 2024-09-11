@@ -84,4 +84,4 @@ const Joel = {
 ### Enlaces:
 - [Portafolio](https://joelapl.github.io/Joel-Alvarez/)
 - [GitHub](https://github.com/JoelAPL)
-- [LinkedIn](https://www.linkedin.com/in/joel-alvarez)
+- [LinkedIn]([https://www.linkedin.com/in/joel-alvarez](https://www.linkedin.com/in/joel-alvarez-72a047235/))
