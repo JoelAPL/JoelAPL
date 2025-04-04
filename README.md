@@ -12,27 +12,26 @@ const Joel = {
   technologies: 'Web',
   passions: ['Diseño web', 'Desarrollo web'],
  
-  code: [HTML, CSS, JavaScript, PHP, SQL, Python],
-  tools: [Materialize, Bootstrap, Node, phpMyAdmin, jQuery, DataTables, Select2, Git, GitHub, GitLab, Bitbucket],
-  databases: ["MySQL", "MariaDB", "phpMyAdmin"],
-  codeEditing: ["Visual Studio Code"],
-  CMS: ["WordPress", "Drupal"],
-  otherSkills: ["Linux (Fedora, VMware)", "Symfony", "Twig"]
+  code: [JavaScript, PHP, SQL, HTML, CSS, Python, Java, C++, Flutter],
+  tools: [Symfony, Twig, Node.js, phpMyAdmin, jQuery, DataTables, Materialize, Bootstrap, Select2, Git, GitHub, GitLab, Bitbucket],
+  databases: ["MySQL", "MariaDB", "phpMyAdmin", "HeidiSQL"],
+  codeEditing: ["Visual Studio Code", "Project IDX"],
+  CMS: ["WordPress", "Drupal", "Shopify"],
+  otherSkills: ["Linux (Fedora, VMware)", "Docker", "Postman"]
 }
 ```
 
-- 🔭 Actualmente trabajo en [JalproOne Vs2](https://www.jalpro.com/).
 - 🌱 Estoy aprendiendo **Angular, React, Python, Flutter, C++**.
 - 👯 Busco colaborar en **proyectos innovadores**.
 - 📫 Puedes contactarme en **joel.ale.programmer@gmail.com**.
 - ☕ Fun fact: **Amo el café**.
 
 ### Experiencia laboral:
+- **Sofistic, Cuatro Ochenta:** Desarrollo y soporte continuo para programas internos y sitio web bancario.
 - **Jalpro Technology:** Diseño y desarrollo de aplicaciones y páginas web (WordPress, Elementor).
 - **JalproOne Vs2:** Mejoras en el software de facturación web, optimización visual y funcional (PHP).
-- **RRisk Manager:** Desarrollo de módulos de estadísticas e informes para la gestión de riesgos de clientes.
-- **Sofistic, Cuatro Ochenta:** Soporte técnico continuo para un sitio web bancario, rediseño y mejoras UX/UI.
-- **Cotizador Panamá TuCanTravel:** Desarrollo de una aplicación web para cotizaciones y gestión de clientes.
+- **RRisk Manager:** Desarrollo de aplicación de matriz de riesgo, para datos sensitivos. 
+- **Cotizador Panamá TuCanTravel:** Desarrollo de CRM y manejo de cotizaciones con clientes. 
 
 ### Lenguajes y herramientas:
 <p align="center">
